@@ -22,7 +22,7 @@ a:hover, a:focus {
     font-style:italic;
     color:orangered;
     border: 3px blue;
-    border-style: dotted style;
+    border-style: dotted;
 }
 header h1 {
     font-size: 175%;
@@ -52,7 +52,7 @@ article {
     margin-left: 2em;
 }
 article h3 {
-    column-span: all:
+    column-span: all;
 }
 article img {
     float: left;
