@@ -78,8 +78,10 @@ footer {
 }
 p.fixed {
     position: fixed;
-    bottom: 40;
-    right: 2;
+    bottom: 0;
+    right: 20px;   
     background-color: green;
     padding: 10px;
+    color: white;
+    margin: 0;
 }
