@@ -16,6 +16,8 @@ border-right: 2px solid white; }
 body {
     width: 95%;
     margin: 15px auto;
+    background: url(/images/SH_orange.png) right repeat-y;
+    background-attachment: fixed;
 }
 
 article {
