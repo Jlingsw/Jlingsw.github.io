@@ -32,6 +32,11 @@ article p::first-letter {
     
     font-weight: bold;  
 }
+ aside {
+  width: 20%;
+}
+
+
 .float-img {
     float: left;      
     margin-right: 15px;
