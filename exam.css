@@ -64,3 +64,6 @@ article p::first-letter {
   .top-link {
     margin-top: 15px;
   }
+  footer.copyright {
+  text-align: center;
+  }
