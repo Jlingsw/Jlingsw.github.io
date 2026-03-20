@@ -28,3 +28,39 @@ article p::first-letter {
     margin-right: 15px;
     margin-bottom: 10px;
 }
+
+.toc {
+    background-color: #8fb3bd; /* light blue */
+    padding: 20px 25px;
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .toc a {
+    color: #0000ee; /* classic link blue */
+    text-decoration: underline;
+  }
+
+  .toc ol {
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  .toc ul {
+    list-style-type: square;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+  }
+
+  .toc li {
+    margin: 6px 0;
+  }
+
+  .toc ol ol {
+    margin-top: 5px;
+  }
+
+  .top-link {
+    margin-top: 15px;
+  }
