@@ -31,11 +31,12 @@ h2 {
   color: blue;
   font-weight: bold;
 }
-h1 .float-img {
-  column-span: all;
-}
-h2 .float-img {
-  column-span: all;
+
+.float-img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    width: 150px;  /* ADD this */
 }
 body {
     width: 95%;
