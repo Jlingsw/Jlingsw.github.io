@@ -17,6 +17,7 @@
 #nav_menu::after { content: ""; display: table; clear: both; } 
 #nav_menu {
   border-bottom: 4px solid blue;
+  padding: 8px 0 30px 0;
 }
 h1 {
   color: blue;
