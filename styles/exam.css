@@ -42,9 +42,8 @@ body {
     width: 95%;
     margin: 15px auto;
     
-    background url(/images/SH_orange.png); 
-    background-position:  right;
-    background-repeat: repeat-y;
+    background url(/images/SH_orange.png) right repeat-y;
+   
     
     
     
