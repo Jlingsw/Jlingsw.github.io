@@ -11,6 +11,10 @@
   font-weight: bold;         
   border-right: 2px solid #3333dd; 
 }
+.toc ol ol,
+.toc ol ul {
+  padding-left: 20px;
+}
 #nav_menu ul li:last-child a { border-right: none; } 
 #nav_menu ul li a.current { color: yellow; }         
 #nav_menu ul li a:hover { background-color: #0000aa; } 
