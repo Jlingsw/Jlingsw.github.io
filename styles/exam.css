@@ -41,6 +41,8 @@ article p::first-letter {
  aside {
   width: 20%;
   position: fixed;
+  right: 20px;
+  top: 100px;
 }
 
 
