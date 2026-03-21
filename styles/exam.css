@@ -118,4 +118,5 @@ article p:not(.top-link)::first-letter {
   }
   footer.copyright {
   text-align: center;
+  border-top: 4px solid blue;
   }
