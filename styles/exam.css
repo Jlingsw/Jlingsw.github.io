@@ -18,7 +18,14 @@
 #nav_menu {
   border-bottom: 4px solid blue;
 }
-
+h1 {
+  color: blue;
+  font-weight: bold;
+}
+h2 {
+  color: blue;
+  font-weight: bold;
+}
 body {
     width: 95%;
     margin: 15px auto;
