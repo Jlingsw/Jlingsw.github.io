@@ -79,9 +79,7 @@ article p:not(.top-link)::first-letter {
     margin-right: 15px;
     margin-bottom: 10px;
 }
-h1, h2, .float-img {
-    column-span: all;
-}
+
 
 .toc {
     background-color: #8fb3bd; 
