@@ -26,6 +26,12 @@ h2 {
   color: blue;
   font-weight: bold;
 }
+h1 .float-img {
+  column-span: all;
+}
+h2 .float-img {
+  column-span: all;
+}
 body {
     width: 95%;
     margin: 15px auto;
