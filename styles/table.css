@@ -109,3 +109,13 @@ table.third tr {
     border-left: 2px solid orangered;
     border-right: 2px solid orangered;
 }
+
+@media only screen and (max-width: 425px) {
+th, td {
+display: block;
+}
+thead, td.number {
+display: none;
+padding: 0;
+  }
+}
