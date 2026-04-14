@@ -75,8 +75,6 @@ table.third caption {
     padding: 8px 10px;
     text-align: center;
     border-top: 2px solid orangered;
-    border-left: 2px solid orangered;
-    border-right: 2px solid orangered;
 }
 
 table.third th {
