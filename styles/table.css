@@ -91,10 +91,7 @@ table.third td {
     vertical-align: top;
 }
 
-table.third tr {
-    border-left: 2px solid orangered;
-    border-right: 2px solid orangered;
-}
+
 
 table.third thead tr:first-child {
     border-top: 2px solid orangered;
