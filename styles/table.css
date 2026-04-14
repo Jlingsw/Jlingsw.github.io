@@ -99,6 +99,9 @@ table.third thead tr:first-child {
 table.third tbody tr:nth-child(n+1):not(:last-child) {
     border: none;
 }
+table.third th:nth-child(2) {
+    padding-left: 40px;
+}
 
 table.third tbody tr:last-child {
     border-bottom: 2px solid orangered;
